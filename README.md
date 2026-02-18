@@ -1,10 +1,32 @@
-# 🔁 n8n Docker Local Webhooks with Ngrok
+# 🔗 n8n Docker Local Webhooks Ngrok
 
-Local automation environment using **n8n**, **Docker Compose**, and **Ngrok** to expose secure HTTPS webhooks from a local machine.
-
-This project is designed for **development, testing, and integration scenarios** where external services (APIs, ERPs, CRMs, payment gateways, etc.) need to call local n8n workflows via HTTPS.
+Entorno de automatización local usando n8n, Docker Compose y Ngrok desarrollado por **Isaac Esteban Haro Torres**.
 
 ---
 
-## 🧱 Architecture Overview
+## 📝 Descripción
 
+Configuración para exponer webhooks HTTPS desde máquina local.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- n8n
+- Docker
+- Ngrok
+
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
